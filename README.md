@@ -1,98 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1D4ED8&height=200&section=header&text=Muhammad%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20GitHub%20Apps&descAlignY=55&descColor=93C5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:2563EB,100:0F172A&height=250&section=header&text=Muhammad%20Saad&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20GitHub%20Apps%20Specialist&descAlignY=60&descColor=93C5FD&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+AI+tools+developers+actually+use;GitHub+App+%7C+LLM+Integrations+%7C+Next.js;4+years+building+%7C+2+years+professionally;Open+to+Remote+%26+Relocation+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+AI+tools+developers+actually+use;⚡+GitHub+Apps+%7C+LLM+Integrations+%7C+Next.js;🧠+Autonomous+Agents+%7C+Webhook+Architecture;🌍+Open+to+Remote+%2F+Dubai+%2F+Germany+%2F+UK;🚀+4+Years+Building+%7C+2+Years+Professionally)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MALIKSAAD-dev&label=Profile+Views&color=2563EB&style=for-the-badge)](https://github.com/MALIKSAAD-dev)
+[![GitHub followers](https://img.shields.io/github/followers/MALIKSAAD-dev?label=Followers&style=for-the-badge&color=2563EB&labelColor=0F172A)](https://github.com/MALIKSAAD-dev)
+[![GitHub stars](https://img.shields.io/github/stars/MALIKSAAD-dev?label=Total%20Stars&style=for-the-badge&color=2563EB&labelColor=0F172A)](https://github.com/MALIKSAAD-dev)
 
 </div>
 
 ---
 
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ## 🧠 About Me
 
 ```typescript
-const saad = {
-  name: "Muhammad Saad",
-  role: "Full-Stack Developer → AI Integrations",
-  location: "Mardan, KPK, Pakistan 🇵🇰",
-  experience: "4 years (2 years professionally)",
-  education: "BSc Mathematics with AI @ IST (2029)",
-  currentlyBuilding: "Gram-PR — AI GitHub PR Reviewer",
-  lookingFor: "Remote / Relocation opportunities (Dubai 🇦🇪 | Germany 🇩🇪 | UK 🇬🇧)",
-  contact: "memaliksaad17@gmail.com",
-  funFact: "Built a production GitHub App in 1 day that enterprise tools charge $20/month for 🚀"
+const MALIKSAAD = {
+  name        : "Muhammad Saad",
+  title       : "Full-Stack Dev → AI Engineer",
+  location    : "Mardan, KPK, Pakistan 🇵🇰",
+  experience  : "4 years (2 years professional)",
+  education   : "BSc Mathematics + AI @ IST 2029",
+
+  currentlyBuilding : [
+    "Gram-PR → AI GitHub PR Reviewer",
+    "Autonomous agent systems",
+    "LLM-powered developer tools"
+  ],
+
+  specializes : [
+    "GitHub Apps API",
+    "Webhook Architecture",
+    "LLM Integrations",
+    "OAuth Flows",
+    "Event-Driven Systems"
+  ],
+
+  openTo   : "Remote · Dubai · Germany · UK",
+  contact  : "memaliksaad17@gmail.com",
+  funFact  : "Built a prod GitHub App in 1 day 🚀"
 };
 ```
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🤖 [Gram-PR — AI GitHub PR Reviewer](https://gram-pr.vercel.app)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+### 🤖 [Gram-PR](https://gram-pr.vercel.app)
+**AI GitHub PR Reviewer**
 
-Production GitHub App that **automatically posts AI code reviews** on every pull request. Zero manual setup after one-click install.
+Production GitHub App that auto-posts AI code reviews on every PR. Zero setup after install.
 
-- ✅ GitHub App OAuth + webhook verification
-- ✅ Dynamic installation token generation
-- ✅ Llama 4 Scout LLM for code analysis
-- ✅ Event-driven architecture on Vercel
+![](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs)
+![](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square)
+![](https://img.shields.io/badge/GitHub_Apps-181717?style=flat-square&logo=github)
+![](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 
-</td>
-<td width="50%">
-
-### 🧠 [Velora — Autonomous B2B Intelligence](https://velorai.vercel.app)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
-
-Autonomous B2B platform using LLM reasoning models to automate market research and sales proposal generation.
-
-- ✅ Real-time Live Execution Feed
-- ✅ AI data scraping pipelines
-- ✅ 90% reduction in manual research time
-- ✅ High-conversion proposal generation
+`Webhooks` `OAuth` `LLM` `Event-Driven`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🎼 [Orchestra AI — Multi-Agent Platform](https://orchestraai.vercel.app)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 🧠 [Velora](https://velorai.vercel.app)
+**Autonomous B2B Intelligence**
 
-Multi-agent orchestration platform managing autonomous AI workflows across 10+ distinct tasks with shared situational awareness.
+LLM-powered platform automating market research and sales proposals. 90% less manual work.
 
-- ✅ 10+ autonomous agent workflows
-- ✅ Shared situational awareness
-- ✅ Production deployed, high availability
-- ✅ Large-scale autonomous operations
+![](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs)
+![](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square)
+![](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+
+`Autonomous AI` `B2B` `LLM Pipeline` `Real-time`
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 📬 Open to Collaboration
-I'm actively looking to collaborate on:
-- 🔧 Open source AI developer tools
-- 🤖 LLM-powered automation projects
-- 🔗 GitHub App integrations
-- ⚡ Next.js full-stack applications
+### 🎼 [Orchestra AI](https://orchestraai.vercel.app)
+**Multi-Agent Platform**
 
-**Drop me a message:**
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:memaliksaad17@gmail.com)
+Orchestrates 10+ autonomous AI agents with shared situational awareness at scale.
+
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+`Multi-Agent` `Orchestration` `Autonomous` `Scale`
 
 </td>
 </tr>
@@ -100,38 +105,51 @@ I'm actively looking to collaborate on:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### Languages
+<div align="center">
+
+### ⚡ Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Libraries
+### 🏗️ Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### AI & Automation
-![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LLM_Integrations-412991?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### 🤖 AI & Automation
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logoColor=white)
 ![GitHub Apps](https://img.shields.io/badge/GitHub_Apps_API-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integrations-7C3AED?style=for-the-badge&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge&logoColor=white)
 
-### Databases & BaaS
+### 🗄️ Databases & BaaS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🏛️ Architecture
+![REST](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven-8B5CF6?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
@@ -139,28 +157,44 @@ I'm actively looking to collaborate on:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MALIKSAAD-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIKSAAD-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MALIKSAAD-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIKSAAD-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MALIKSAAD-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MALIKSAAD-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=2563EB&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MALIKSAAD-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=60A5FA)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🌍 Currently Looking For
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| 🌐 Remote | 🇦🇪 Dubai | 🇩🇪 Germany | 🇬🇧 UK |
-|-----------|-----------|------------|--------|
-| Open | Open | Open (IT Specialist Visa) | Open |
+[![trophy](https://github-profile-trophy.vercel.app/?username=MALIKSAAD-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Available for:** Full-time roles · Contract · Freelance
+</div>
+
+---
+
+## 🌍 Open To Opportunities
+
+<div align="center">
+
+| 🌐 Remote | 🇦🇪 Dubai | 🇩🇪 Germany | 🇬🇧 UK | 🇳🇱 Netherlands |
+|:---------:|:---------:|:----------:|:------:|:--------------:|
+| ✅ Open | ✅ Open | ✅ IT Specialist Visa | ✅ Open | ✅ Open |
+
+**Available for:** Full-time · Contract · Freelance · Relocation
 
 </div>
 
@@ -170,9 +204,10 @@ I'm actively looking to collaborate on:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:memaliksaad17@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:memaliksaad17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Gram--PR-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gram-pr.vercel.app)
+[![Gram-PR](https://img.shields.io/badge/Gram--PR-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gram-pr.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALIKSAAD-dev)
 
 </div>
 
@@ -180,6 +215,15 @@ I'm actively looking to collaborate on:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:2563EB&height=100&section=footer" width="100%"/>
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer&text=Let's+Build+Something+Amazing&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
