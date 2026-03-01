@@ -4,7 +4,7 @@
 ### **"Transforming Mathematical Logic into Autonomous Infrastructure"**
 **Specializing in high-concurrency GitHub Ecosystems and Multi-Agent Orchestration.**
 
-[Portfolio](https://gram-pr.vercel.app) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Expertise Deck](mailto:memaliksaad17@gmail.com)
+[Portfolio](https://maliksaad.bio.link) • [LinkedIn](https://www.linkedin.com/in/muhammad-saad-95847b3b2/) • [Expertise Deck](mailto:memaliksaad17@gmail.com)
 
 ---
 </div>
@@ -16,9 +16,9 @@
 ---
 
 ### 🛰️ Architectural Thesis
-* [cite_start]**Mathematical Precision:** Currently leveraging **BSc Mathematics with AI** principles at IST to optimize stochastic agent behaviors and situational awareness.
-* [cite_start]**Production Reliability:** 4 years of engineering experience (2 years professional) focused on **Event-Driven Architectures** and **GitHub App security**[cite: 5, 6, 14].
-* [cite_start]**Agentic Specialization:** Architecting autonomous B2B pipelines and multi-agent systems with shared cognitive memory[cite: 34, 40].
+* [cite_start]**Mathematical Precision:** Leveraging **BSc Mathematics with AI** principles at IST to optimize stochastic agent behaviors and situational awareness[cite: 52, 55, 57].
+* [cite_start]**Production Reliability:** 4 years of engineering experience (2 years professional) focused on **Event-Driven Architectures** and **GitHub App security**[cite: 5, 14, 22].
+* [cite_start]**Agentic Specialization:** Architecting autonomous B2B pipelines and multi-agent systems with shared cognitive memory[cite: 6, 34, 40].
 
 ---
 
@@ -46,14 +46,14 @@
 <b>Gram-PR</b><br/>
 <i>AI Code Auditor</i>
 <hr/>
-Automated code reviews via real-time GitHub Webhook analysis. [cite_start]Scaled with event-driven logic[cite: 24, 27].
+Automated code reviews via real-time GitHub Webhook analysis. [cite_start]Scaled with event-driven logic[cite: 24, 27, 30].
 </td>
 <td width="33%" valign="top" align="center">
 <img src="https://img.shields.io/badge/Enterprise-2563EB?style=for-the-badge&logo=openai&logoColor=white" /><br/>
 <b>Velora AI</b><br/>
 <i>B2B Intelligence</i>
 <hr/>
-[cite_start]Autonomous market research agents reducing manual labor by 90% via LLM reasoning[cite: 31, 36].
+[cite_start]Autonomous market research agents reducing manual labor by 90% via LLM reasoning[cite: 31, 34, 36].
 </td>
 <td width="33%" valign="top" align="center">
 <img src="https://img.shields.io/badge/Architecture-7C3AED?style=for-the-badge&logo=diagrams.net&logoColor=white" /><br/>
