@@ -1,90 +1,81 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:2563EB,100:0F172A&height=250&section=header&text=Muhammad%20Saad&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Architecting%20Autonomous%20Systems%20%E2%80%A2%20Full-Stack%20Expertise&descAlignY=60&descColor=93C5FD&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:2563EB,100:0F172A&height=280&section=header&text=MUHAMMAD%20SAAD&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=SYSTEMS%20ARCHITECT%20|%20AI%20INFRASTRUCTURE%20ENGINEER&descAlignY=65&descColor=93C5FD&animation=fadeIn" width="100%"/>
+
+### 🧠 **Fusing Mathematical Logic with Autonomous Intelligence**
+**Engineering high-availability systems where Webhooks, LLMs, and Scalable Infrastructure converge.**
+
+[Portfolio](https://gram-pr.vercel.app) • [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/MALIKSAAD-dev) • [Email](mailto:memaliksaad17@gmail.com)
 
 ---
 
-### ⚡ Systems Architect & AI Engineer
-**Bridging the gap between complex Webhooks and Autonomous LLM Agents**
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="380" />
 
-[Portfolio](https://your-portfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:memaliksaad17@gmail.com) • [Dubai & EU Relocation Ready ✈️]
+### 🛰️ Operational Profile
+* [cite_start]**Current Research:** Applying Advanced Mathematics at IST to optimize Multi-Agent shared situational awareness.
+* [cite_start]**Specialization:** Production-grade GitHub Apps, Event-Driven Architecture, and Agentic RAG Pipelines[cite: 6, 14, 24].
+* [cite_start]**Professional Depth:** 4 years of code craftsmanship with a focus on autonomous B2B intelligence[cite: 5, 31].
+* [cite_start]**Global Mobility:** Actively targeting high-impact roles in **Dubai (🇦🇪)** and **Germany (🇩🇪)**.
 
----
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Operational Focus</h3>
-      <ul>
-        <li><b>Autonomous Agents:</b> Scaling multi-agent systems with shared memory.</li>
-        <li><b>GitHub Ecosystem:</b> Deep expertise in GitHub Apps, Webhooks, and OAuth.</li>
-        <li><b>Full-Stack AI:</b> React/Next.js integrated with LLM pipelines.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Professional DNA</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIKSAAD-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff" width="100%"/>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ The Tech Ecosystem
 
-<div align="center">
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript` `C++` `Python` `SQL` |
-| **Frontend** | `Next.js 14` `React` `Tailwind CSS` `Framer Motion` |
-| **Backend** | `Node.js` `Express` `Hono` `Appwrite` `Supabase` |
-| **AI / ML** | `LangChain` `OpenAI SDK` `Vector DBs` `RAG Pipelines` |
-| **Infrastructure** | `Docker` `GitHub Actions` `Vercel` `Cloudflare Workers` |
-
-</div>
+| **Core Foundations** | **Frameworks & Runtimes** | **AI & Autonomy** |
+| :--- | :--- | :--- |
+| `TypeScript (Advanced)` | `Next.js 15 (App Router)` | `LangChain / LLM Orchestration` |
+| `Mathematical Logic` | `Node.js / Hono / Express` | `Autonomous Agent Systems` |
+| `C++ (OOP)` | `React / Tailwind / Framer` | `Vector DBs / RAG / Prompt Eng.` |
+| `PostgreSQL / SQL` | `Appwrite / Supabase` | `GitHub Apps / Webhook APIs` |
 
 ---
 
 ## 🏆 Featured Architectures
 
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3>🤖 Gram-PR</h3>
+<p><b>Status:</b> <code>Production Ready</code></p>
+<p>AI-driven code audit system. [cite_start]Handles GitHub Webhooks and OAuth at scale to automate PR reviews[cite: 7, 24].</p>
+</td>
+<td width="33%" valign="top">
+<h3>🧠 Velora AI</h3>
+<p><b>Status:</b> <code>B2B Scaling</code></p>
+<p>Autonomous intelligence platform for market research. [cite_start]Real-time reasoning feeds via optimized LLM pipelines[cite: 31, 35].</p>
+</td>
+<td width="33%" valign="top">
+<h3>🎼 Orchestra AI</h3>
+<p><b>Status:</b> <code>System Testing</code></p>
+[cite_start]<p>Managing 10+ autonomous agents with shared memory for large-scale enterprise automation[cite: 37, 40].</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Logic & Performance Metrics
+
 <div align="center">
-
-| **Gram-PR** | **Velora AI** | **Orchestra AI** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-B2B_Live-blue?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Scale_Testing-blueviolet?style=flat-square" /> |
-| AI Code Reviewer for GitHub. | B2B Intelligence & Sales Automation. | Multi-Agent Orchestration Hub. |
-| *Event-Driven • Webhooks* | *Autonomous Pipelines* | *10+ Interconnected Agents* |
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MALIKSAAD-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALIKSAAD-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff"/>
 </div>
 
 ---
 
-## 📊 Performance Metrics
+## 🌍 Strategic Location & Mobility
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MALIKSAAD-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MALIKSAAD-dev&theme=tokyonight"/>
-</div>
-
----
-
-## 🌍 Global Mobility
-
-<div align="center">
-
-| **Location** | **Status** | **Type** |
-| :--- | :--- | :--- |
-| 🇦🇪 **Dubai** | Immediate Availability | Remote / On-site |
-| 🇩🇪 **Germany** | IT Specialist Visa Ready | Relocation |
-| 🇬🇧 **UK / NL** | Open to Sponsorship | Remote / Relocation |
-
-</div>
+| Priority | Region | Authorization Status |
+| :---: | :--- | :--- |
+| 01 | **Dubai, UAE** | Immediate Availability for Remote/On-site |
+| 02 | **Germany** | IT Specialist Visa Ready / Relocation Capable |
+| 03 | **UK / NL** | Open to Sponsorship Opportunities |
 
 ---
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer&text=Let's+Architect+the+Future&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer&text=DESIGNING+AUTONOMOUS+FUTURES&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
